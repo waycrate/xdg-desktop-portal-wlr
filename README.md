@@ -1,8 +1,7 @@
 # xdg-desktop-portal-wlr
+## NOTE: This fork basically rips out grim and inserts wayshot in it's place. We should probably collaborate with upstream to integrate both projects.
 
-[![builds.sr.ht status](https://builds.sr.ht/~emersion/xdg-desktop-portal-wlr/commits/master.svg)](https://builds.sr.ht/~emersion/xdg-desktop-portal-wlr/commits/master?)
-
-[xdg-desktop-portal] backend for wlroots
+[xdg-desktop-portal] backend for wlroots using wayshot
 
 ## Building
 
