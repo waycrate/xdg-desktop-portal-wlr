@@ -1,4 +1,5 @@
 # xdg-desktop-portal-wlr
+## NOTE: Do not use this anymore. Please use: https://github.com/waycrate/xdg-desktop-portal-luminous
 ## NOTE: This fork basically rips out grim and inserts wayshot in it's place. We should probably collaborate with upstream to integrate both projects.
 
 [xdg-desktop-portal] backend for wlroots using wayshot
